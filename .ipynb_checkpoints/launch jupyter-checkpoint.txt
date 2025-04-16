@@ -1,0 +1,2 @@
+C:\Python313\MIT>.\venv\Scripts\activate
+jupyter notebook

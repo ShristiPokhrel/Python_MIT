@@ -1,0 +1,32 @@
+C:\Python313\MIT>.\venv\Scripts\activate
+jupyter notebook
+
+
+
+Operator
+or  example a>b or a==b  result: True
+and  example a>b and a==b  result: False
+not  example a>b  result: False i.e. Not True
+
+
+
+example 
+print(6>3 and 5>3)  Result: True  --because both statements are true
+print(6>3 and 5<3)  Result: False  --because both second statement is false
+print(6<3 and 5<3)  Result: False  --because both statements are false
+print(6>3 or 5>3)  Result: True  --because both statements are true
+
+
+--> min=50 if 49<50 else 70 #min =70
+print(min)
+
+
+
+--> Literals Collections 
+
+
+#list literal 
+fruits = ["apple", "mango", "orange"]  print(fruits)
+
+#tuple literal
+numbers 
