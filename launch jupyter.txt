@@ -2,6 +2,13 @@ C:\Python313\MIT>.\venv\Scripts\activate
 jupyter notebook
 
 
+camelCase
+PascalCase
+snake_case
+
+data type:
+array: a=("apple","cat","hjsa")
+dict: a=
 
 Operator
 or  example a>b or a==b  result: True
